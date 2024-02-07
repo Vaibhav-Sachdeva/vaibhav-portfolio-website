@@ -66,7 +66,7 @@ const FeaturedProject = ({
           {/* <div className="font-mono hidden lg:block text-accent capitalize text-xs lg:mb-2.5">
             featured project
           </div> */}
-          <h2 className="heading-tertiary !text-white lg:!text-dark-2 !font-semibold lg:!font-normal !normal-case">
+          <h2 style={{ fontSize: '1.5rem' }} className="!text-white lg:!text-dark-2 !font-semibold lg:!font-normal !normal-case">
             <a
               href={url}
               className="block duration-200 hover:text-accent"

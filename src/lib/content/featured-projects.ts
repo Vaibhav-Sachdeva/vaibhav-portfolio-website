@@ -6,7 +6,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
   projects: [
     {
       id: getId(),
-      name: 'Biometric Facial Recognition using Convolutional Neural Networks',
+      name: 'Biometric Facial Recognition',
       description: '',
       tasks:
         'Implemented a highly accurate biometric facial recognition system leveraging a Siamese Neural Network (SNN) trained on the LFW dataset. Conducted a comparative analysis, showcasing a 10% performance boost over hyper-parameter-tuned CNNs, achieving an impressive 98% accuracy.',
@@ -36,7 +36,7 @@ const featuredProjectsSection: FeaturedProjectsSectionType = {
     },
     {
       id: getId(),
-      name: 'Breast Cancer Prediction using Machine Learning',
+      name: 'Breast Cancer Prediction',
       description: '',
       tasks:
         'Implemented machine learning models to distinguish between benign and malignant mammary tumors, utilizing algorithms like ANNs, Random Forests, SVM, and KNN in Python, achieving high accuracy. Conducted a comparative study evaluating model performance with metrics such as accuracy, precision, recall, and F1 score, providing valuable insights into optimal tumor diagnosis methods.',
