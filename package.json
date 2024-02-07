@@ -2,11 +2,11 @@
   "private": false,
   "homepage": "https://Vaibhav-Sachdeva.github.io/vaibhav-portfolio-website",
   "scripts": {
+    "start": "next start",
     "predeploy": "yarn run build",
     "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "lint": "next lint",
