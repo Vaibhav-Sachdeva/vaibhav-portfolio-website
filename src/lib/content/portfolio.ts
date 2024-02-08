@@ -17,7 +17,7 @@ export const author = {
 };
 
 export const seoData = {
-  title: 'Vaibhav Sachdeva | Software Developer',
+  title: 'Vaibhav Sachdeva',
   description:
     'Vaibhav Sachdeva is a software Developer who has a keen interest in Full Stack Development and Artificial Intelligence.',
   author: author.name,
