@@ -22,7 +22,7 @@ export const seoData = {
     'Vaibhav Sachdeva is a software Developer who has a keen interest in Full Stack Development and Artificial Intelligence.',
   author: author.name,
   image:
-    '/thumbnail-linkedin',
+    '/thumbnail-linkedin.png',
   url: 'https://vaibhav-sachdeva.netlify.app/',
   keywords: [
     'Vaibhav',
